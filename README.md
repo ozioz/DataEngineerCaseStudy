@@ -4,7 +4,7 @@
 ## 🚀 Quick Start
 ```bash
 docker-compose up -d
-
+```bash
 📂 Project Structure
 Copy
 .
